@@ -1,0 +1,22 @@
+{
+  "herbivores": [
+    {
+      "name": "Elephant",
+      "weight": "2Tons",
+      "food": "leaves"
+    },
+    {
+      "name": "Panda",
+      "weight": "500lbs",
+      "food": "Bamboo Leaves"
+    },
+    {
+      "name": "Roommate",
+      "weight": "120lbs",
+      "food": "vegetarian"
+    }
+  ]
+}
+
+
+
